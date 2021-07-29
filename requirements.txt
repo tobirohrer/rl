@@ -1,0 +1,5 @@
+chainerrl
+matplotlib
+tensorflow
+gym
+jupyter
